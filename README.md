@@ -1,4 +1,4 @@
-![MasterHead](https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/08/giphy.gif?auto=format&q=60&fit=max&w=930)
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Ismail Chafi</h1>
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
